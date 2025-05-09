@@ -1,3 +1,6 @@
+#David Ezequiel Caballero González
+#Simulación
+#Trabajo final
 
 import math
 import matplotlib.pyplot as plt
